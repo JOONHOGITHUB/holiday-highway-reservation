@@ -54,7 +54,7 @@
 
 ## 3. 서비스 제안
 
-![app](./UI_images/images/app_first_screen.png)
+![app](./UI_images/images/app_first_screen.jpg)
 
 ### 명절 고속도로 통행 예약 서비스
 

@@ -170,12 +170,21 @@
 ## 7. 서비스 UI/UX
 
 서비스 이용 흐름에 맞춰 주요 화면을 설계했습니다.
-<img src="./UI_images/images/app_first_screen.jpg" width="300">
 
 ### 초기 화면
 
-
-<img src="./UI_images/images/app_main.jpg" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/app_first_screen.jpg" width="300">
+      <br><b>앱 초기 화면</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/app_main.jpg" width="300">
+      <br><b>메인 화면</b>
+    </td>
+  </tr>
+</table>
 
 - 명절 통행 예약 기간 안내
 - 노선 예약
@@ -184,10 +193,28 @@
 
 ### 로그인 / 마이페이지
 
-
-<img src="./UI_images/images/login.jpg" width="300">
-<img src="./UI_images/images/mypage.png" width="300">
-<img src="./UI_images/images/mypage(reservation).png" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/login.jpg" width="300">
+      <br><b>로그인</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/mypage.png" width="300">
+      <br><b>마이페이지</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/mypage(reservation).png" width="300">
+      <br><b>예약 내역</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/popualr_route.jpg" width="300">
+      <br><b>인기 노선</b>
+    </td>
+  </tr>
+</table>
 
 - 사용자 정보 관리
 - 등록 차량 관리
@@ -197,8 +224,28 @@
 
 ### 노선 예약
 
-<img src="./UI_images/images/reservation_screen" width="300">
-<img src="./UI_images/images/reservation_screen2" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/reservation_screen.jpg" width="300">
+      <br><b>노선 예약</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/reservation_screen2.jpg" width="300">
+      <br><b>예약 상세</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/route.jpg" width="300">
+      <br><b>상행 노선</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/route_downline.jpg" width="300">
+      <br><b>하행 노선</b>
+    </td>
+  </tr>
+</table>
 
 사용자가
 
@@ -210,13 +257,22 @@
 
 ### 혼잡도 조회
 
-<img src="./UI_images/images/highway_congestion.jpg" width="300">
-<img src="./UI_images/images/highway_congestion2.jpg" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./UI_images/images/highway_congestion.jpg" width="300">
+      <br><b>고속도로 혼잡도</b>
+    </td>
+    <td align="center">
+      <img src="./UI_images/images/highway_congestion2.jpg" width="300">
+      <br><b>구간별 혼잡도</b>
+    </td>
+  </tr>
+</table>
 
 날짜와 상·하행선을 선택하여 고속도로의 구간별 혼잡도를 확인할 수 있도록 구성했습니다.
 
-> **UI/UX 시안 추가적인 이미지는 UI_images 폴더를 통해 확인하실 수 있습니다.**
-
+> 추가적인 UI/UX 시안은 `UI_images/images` 폴더에서 확인할 수 있습니다.
 
 ---
 

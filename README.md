@@ -54,6 +54,8 @@
 
 ## 3. 서비스 제안
 
+![app](./UI_images/images/app_first_screen.png)
+
 ### 명절 고속도로 통행 예약 서비스
 
 명절 기간 동안 사용자가 자신이 이용할

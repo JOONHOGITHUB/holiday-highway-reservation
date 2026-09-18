@@ -54,7 +54,6 @@
 
 ## 3. 서비스 제안
 
-<img src="./UI_images/images/app_first_screen.jpg" width="500">
 
 ### 명절 고속도로 통행 예약 서비스
 
@@ -171,8 +170,12 @@
 ## 7. 서비스 UI/UX
 
 서비스 이용 흐름에 맞춰 주요 화면을 설계했습니다.
+<img src="./UI_images/images/app_first_screen.jpg" width="300">
 
 ### 초기 화면
+
+
+<img src="./UI_images/images/app_main.jpg" width="300">
 
 - 명절 통행 예약 기간 안내
 - 노선 예약
@@ -181,6 +184,11 @@
 
 ### 로그인 / 마이페이지
 
+
+<img src="./UI_images/images/login.jpg" width="300">
+<img src="./UI_images/images/mypage.png" width="300">
+<img src="./UI_images/images/mypage(reservation).png" width="300">
+
 - 사용자 정보 관리
 - 등록 차량 관리
 - 예약 내역 확인
@@ -188,6 +196,9 @@
 - 공지사항
 
 ### 노선 예약
+
+<img src="./UI_images/images/reservation_screen" width="300">
+<img src="./UI_images/images/reservation_screen2" width="300">
 
 사용자가
 
@@ -199,11 +210,13 @@
 
 ### 혼잡도 조회
 
+<img src="./UI_images/images/highway_congestion.jpg" width="300">
+<img src="./UI_images/images/highway_congestion2.jpg" width="300">
+
 날짜와 상·하행선을 선택하여 고속도로의 구간별 혼잡도를 확인할 수 있도록 구성했습니다.
 
-> **UI/UX 시안 이미지 추가 예정**
->
-> 실제 기획 과정에서 제작한 서비스 화면을 `images/` 디렉터리에 추가하여 README에 연결할 예정입니다.
+> **UI/UX 시안 추가적인 이미지는 UI_images 폴더를 통해 확인하실 수 있습니다.**
+
 
 ---
 

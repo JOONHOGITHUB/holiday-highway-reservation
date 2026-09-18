@@ -227,7 +227,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./UI_images/images/reservation_screen.jpg" width="300">
+      <img src="./UI_images/images/resevation_screen.jpg" width="300">
       <br><b>노선 예약</b>
     </td>
     <td align="center">
